@@ -1,0 +1,49 @@
+---
+title: "Ali Emre Karagül"
+image: "images/profile.png"
+preview: "images/profile.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ali-emre-karag%C3%BCl/"
+  - label: GitHub
+    url: "https://github.com/jimmyquidd"
+  - label: Email
+    url: "mailto:aliemrekaragul@gmail.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+## ABOUT ME
+
+I am a tech-savvy person with a data-driven mindset.
+
+Currently, I work on my PhD in Educational Assessment and Evaluation. My research interest is on Automated Essay Scoring, which has led me through machine learning and natural language processing.
+
+---
+
+## EDUCATION
+
+#### Gazi University
+
+Faculty of Education (2022-ongoing)
+
+Ph.D. student in the Department of Educational Assessment and Evaluation
+
+#### Ankara University
+
+Faculty of Educational Sciences (2016-2020)
+
+Master's Degree in Assessment and Evaluation in Education\
+
+#### Gazi University
+
+Faculty of Education (2008-2014)
+
+Bachelor's degree in the Department of Foreign Language Education
+
+---
+
+## CONTACT ME
+
+Always feel free to contact me about any feedback, questions, or maybe just to say "hi".
